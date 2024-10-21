@@ -1,0 +1,9 @@
+<HTML>
+<HEAD></HEAD>
+<body>
+Este es un texto normal
+<h1>gokulegana </h1>
+<h2>gokunopierde </h2>
+<h3>gokulodejoganar </h3>
+</body>
+</HTML>
